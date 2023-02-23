@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Title: Converting EEG data into BIDS format
 # Author: Will Decker
 
